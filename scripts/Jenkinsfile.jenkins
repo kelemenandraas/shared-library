@@ -1,0 +1,2 @@
+@Library('common-shared-library') _
+pipeline1()
